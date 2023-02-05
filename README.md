@@ -2,7 +2,7 @@
 HiSQL is a MySQL client to manage MySQL databases remotely.
 
 <!--[![Get it on Play Store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.mk.hisql)-->
-<a href='https://play.google.com/store/apps/details?id=com.mk.hisql&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='20%' height='20%'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.mk.hisql&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='60%' height='60%'/></a>
 
 HiSQL - MySQL client currently contains the following features.
 
